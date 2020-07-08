@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.24",
+	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -32,7 +32,7 @@
 		{
 			"Name": "VRTunnellingPro",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/91f9c94e29b244bc9c45bd43378566dd"
+			"MarketplaceURL": "com.epicgames.launcher: //ue/marketplace/product/91f9c94e29b244bc9c45bd43378566dd"
 		},
 		{
 			"Name": "SmoothSyncPlugin",

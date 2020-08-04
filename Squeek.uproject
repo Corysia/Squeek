@@ -3,46 +3,8 @@
 	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-			"Name": "AssetsCleaner",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/3caab7c6e81f449296989122c043ae21"
-		},
-		{
-			"Name": "ElectronicNodes",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5cb2a394d0c04e73891762be4cbd7216"
-		},
-		{
-			"Name": "ImageResizUEr",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/670be04026664663875aadd4dea45b9d"
-		},
-		{
-			"Name": "Linter",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ca0639af6339476da86fa3bcf15de8ec"
-		},
-		{
-			"Name": "MagicNode",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/38f49e7411bc47588e0d219758d6b16f"
-		},
-		{
-			"Name": "VRTunnellingPro",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher: //ue/marketplace/product/91f9c94e29b244bc9c45bd43378566dd"
-		},
-		{
-			"Name": "SmoothSyncPlugin",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c8f61b007fb44f4abcb7b0974cebff6b"
-		}
-	],
 	"TargetPlatforms": [
 		"PS4",
-		"WindowsNoEditor",
-		"Android"
+		"WindowsNoEditor"
 	]
 }

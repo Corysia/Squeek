@@ -84,3 +84,5 @@ DerivedDataCache/*
 
 # Project assets to not follow
 Content/ArchVisAssets/*
+QuestBuild/
+WindowsBuild/

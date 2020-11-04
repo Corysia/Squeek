@@ -10,6 +10,8 @@ The goal is simple.  Find the cheese.
 # Source
 This is a `git lfs` project.  Be sure you've installed `lfs` before cloning the project.
 
+You will also need the Mobile Starter Content, which is not added to source control. Unreal can add this from the "Add New" button.
+
 ### Technical Goals
 This is a list of the technical goals I want to achieve.
 

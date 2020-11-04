@@ -83,6 +83,7 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Project assets to not follow
-Content/ArchVisAssets/*
+Content/StarterContent/*
+Content/MobileStarterContent/*
 QuestBuild/
 WindowsBuild/
